@@ -132,8 +132,7 @@ datasets_to_check = ["laptop_14", "restaurants_14"]
 ---
 
 ## License
-Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
-
+Distributed under the MIT License.
 ---
 
 ## Acknowledgments
